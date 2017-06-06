@@ -1,0 +1,23 @@
+{
+  "localization": {
+    "10": "",
+    "11": "Submit relevant document.",
+    "12": "Submit complete document.",
+    "13": "Resubmit document with better text.",
+    "14": "Submit document with translated text.",
+    "20": "Submit another relevant document.",
+    "21": "Submit another relevant document.",
+    "22": "Submit another relevant document.",
+    "23": "Submit another relevant document.",
+    "24": "Submit another relevant document.",
+    "25": "Submit another relevant document.",
+    "30": "Submit a more recent document.",
+    "31": "Submit a more recent document.",
+    "32": "Submit a non-PO Box address document.",
+    "33": "Submit document with banker's stamp.",
+    "90": "Match on sanction list, card cannot be issued.",
+    "91": "Submit relevant document.",
+    "92": "Card cannot be issued because multiple accounts created for same user details."
+  },
+  "resourcetype": "EN"
+}
